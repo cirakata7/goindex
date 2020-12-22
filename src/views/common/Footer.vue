@@ -6,8 +6,8 @@
           <div class="tags has-addons">
             <a
               class="tag is-dark"
-              href="https://viperadnan-git.github.io"
-            >viperadnan</a>
+              href="https://nitishjeet7.tk"
+            >nitishjeet7</a>
             <span class="tag is-light">
               <span class="icon">
                 <i class="fa fa-code"></i>
